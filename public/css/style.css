@@ -1,0 +1,15 @@
+.componentes {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 1px black;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.componentes .telas {
+    display: none;
+}
+
+.componentes .mostrar {
+    display: block;
+}
